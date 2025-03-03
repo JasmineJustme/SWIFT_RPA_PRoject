@@ -3,7 +3,7 @@
 
 For student of SWIFT who want to learn RPA  
 提供给SWIFT想要学习RPA库大一大二的小朋友们  
-以下是本文档基于的库：[RPA-Python](https://github.com/tebelorg/RPA-Python)
+以下是本文档基于的库：[RPA-Python](https://github.com/tebelorg/RPA-Python)  
 示例代码在此：[Code in detail](https://github.com/JasmineJustme/SWIFT_RPA_Project/blob/main/Code_in_detail.md)
 ## 一、简单了解：  
 ### 1.Rpa的主要理解  
